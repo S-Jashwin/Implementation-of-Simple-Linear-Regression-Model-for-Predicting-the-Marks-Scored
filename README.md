@@ -14,8 +14,8 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
-```
-/*
+[Screenshot 2024-10-24 091934](https://github.com/user-attachments/assets/379758db-ffe3-4c98-89cd-634f4391b86c)
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: 
 RegisterNumber:  
